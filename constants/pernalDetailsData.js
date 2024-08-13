@@ -1,0 +1,81 @@
+export default personalDetailsData = [
+  {
+    id: "fullName",
+    placeHolder: "Full Name",
+    iconName: "account",
+    multline: false,
+  },
+  {
+    id: "profession",
+    placeHolder: "Profession",
+    iconName: "briefcase",
+    multline: false,
+  },
+  {
+    id: "emailAddress",
+    placeHolder: "Email Address",
+    iconName: "email",
+    multline: false,
+  },
+  {
+    id: "phoneNumber",
+    placeHolder: "Phone",
+    iconName: "phone",
+    multline: false,
+  },
+  {
+    id: "address",
+    placeHolder: "Address",
+    iconName: "google-maps",
+    multline: false,
+  },
+  {
+    id: "nationality",
+    placeHolder: "Nationality",
+    iconName: "flag",
+    multline: false,
+  },
+  {
+    id: "gender",
+    placeHolder: "Gender",
+    iconName: "human-male-female",
+    multline: false,
+  },
+  {
+    id: "dateOfBirth",
+    placeHolder: "Date of Birth",
+    iconName: "calendar-month",
+    multline: false,
+  },
+  {
+    id: "maritalStatus",
+    placeHolder: "Marital Status",
+    iconName: "human-male-female-child",
+    multline: false,
+  },
+  {
+    id: "religion",
+    placeHolder: "Religion",
+    iconName: "greenhouse",
+    multline: false,
+  },
+  {
+    id: "githubAccount",
+    placeHolder: "Github",
+    iconName: "github",
+    multline: false,
+  },
+  { id: "website", placeHolder: "Website", iconName: "web", multline: false },
+  {
+    id: "linkedIn",
+    placeHolder: "LinkedIn",
+    iconName: "linkedin",
+    multline: false,
+  },
+  {
+    id: "portfolio",
+    placeHolder: "Portfolio",
+    iconName: "folder-open",
+    multline: false,
+  },
+];

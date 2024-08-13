@@ -1,0 +1,15 @@
+export default skills = [
+  { id: 1, skill: "Adaptability" },
+  { id: 2, skill: "Strong Analytical Skills" },
+  { id: 3, skill: "Attention to Details" },
+  { id: 4, skill: "Collaboration" },
+  { id: 5, skill: "Excellent Communication Skills" },
+  { id: 6, skill: "Creative" },
+  { id: 7, skill: "Critical Thinker" },
+  { id: 8, skill: "Customer Service" },
+  { id: 9, skill: "Excellent Decision Making" },
+  { id: 10, skill: "Strong Leadership Skills" },
+  { id: 11, skill: "Excellent Prensentation Skills" },
+  { id: 12, skill: "Tean Player" },
+  { id: 13, skill: "Excellent Time Management" },
+];
