@@ -10,12 +10,12 @@
 </div>
  <div align="center">
   <br />
-    <a href="https://youtu.be/ZBCUegTZF7M?si=ubt0vk70lSjt6DCs" target="_blank">
+    <div style={{ display: flex, flex-direction: row}}>
       <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(123).png">
       <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(115).png">
       <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(116).png">
       <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(118).png">
       <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(120).png">
-    </a>
+    </div>
   <br />
 
