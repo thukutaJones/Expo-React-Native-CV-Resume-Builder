@@ -11,7 +11,6 @@
  <div align="center">
   <br />
     | <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(123).png" width="200"> | <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(115).png" width="200"> | <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(116).png" width="200"> | <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(118).png" width="200"> | <img src="https://storage.googleapis.com/mzunidates/Screenshot%20(120).png" width="200"> |
-| --- | --- | --- | --- | --- |
 
   <br />
 
